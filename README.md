@@ -34,4 +34,6 @@ Right click the main game > Open with addon **and boom.**
 Then when you are done exploring and want to create: Go back to that screen there by closing and opening tools... 
 > I couldn't find a button to go back to project window...
 
-Then create new project
+Then create new project and select deps.
+
+Note path here we'll have to translate again `C:/users/steamuser/Documents/My Games/ArmaReforgerWorkbench/addons`
