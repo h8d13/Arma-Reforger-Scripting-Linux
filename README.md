@@ -4,6 +4,8 @@
 
 From Linux:
 
+Add existing >
+
 `/home/$USER/.local/share/Steam/steamapps/common/Arma Reforger/addons/data/ArmaReforger.gproj`
 
 Translates to in winslows:
@@ -13,6 +15,8 @@ Translates to in winslows:
 ## Addons gproj 
 
 APPID = 1874880
+
+Add existing or scan >
 
 `~/.steam/steam/steamapps/compatdata/[APPID]/pfx/drive_c/users/steamuser/Documents/My Games/ArmaReforger/addons`
 
@@ -28,5 +32,6 @@ Now you are good to go.
 Right click the main game > Open with addon **and boom.**
 
 Then when you are done exploring and want to create: Go back to that screen there by closing and opening tools... 
-I couldn't find a button to go back to project window...
+> I couldn't find a button to go back to project window...
 
+Then create new project
