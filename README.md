@@ -8,7 +8,7 @@ From Linux:
 
 Translates to in winslows:
 
-`Z:\home\$USER.local\share\Steam\steamapps\common\Arma Reforger\addons\data\ArmaReforger.gproj`
+`Z:\home\$USER\.local\share\Steam\steamapps\common\Arma Reforger\addons\data\ArmaReforger.gproj`
 
 ## Addons gproj 
 
